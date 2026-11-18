@@ -1,0 +1,11 @@
+{
+"$type":"CharacterImageTypeDefinitionData, Assembly-CSharp",
+"ID":"00000000-CharImgT-00000000-0000-0000-0000-000000000000",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Portrait","ID":"5ea2ec99-02b3-44bf-9a17-70ed662ac5dd","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1b8125dd-fc8c-4dcc-8bbb-2be12482136b","isActive":false}
+]},
+"ToolName":"Portrait",
+"AuthorName":"",
+"dataVersion":16
+}

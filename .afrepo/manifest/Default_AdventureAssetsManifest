@@ -1,0 +1,23 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"Default_AdventureAssetsManifest",
+"Name":"PackedFiles_Adventure_Assets_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/",
+"LastChangedTime":"2026-11-18T03:30:56.901Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c9882d56-fc83-4ecd-9903-7b21f943676d","FileName":"Mage_Masculine_FBX.fbx","FileSize":2007420,"Type":7,"DateTime":"2026-11-04T21:09:59.414Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"817a97c9-de22-4d0b-8e93-4302fa42b3c7","FileName":"SK_BR_Character_Pig_Butcher_01.fbx","FileSize":491372,"Type":7,"DateTime":"2026-11-04T21:10:35.3670001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b69dba4a-be47-4726-b438-ced1b9d33426","FileName":"dungeon_floor_brownstones_01.png","FileSize":87924,"Type":4,"DateTime":"2026-11-05T16:27:47.5469999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"67091f7a-346a-461f-b86a-fa789cacd42a","FileName":"dungeon_wall_softstone_01.png","FileSize":55518,"Type":4,"DateTime":"2026-11-05T16:31:55.407Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ad2f2981-a6ca-4aa1-b717-c7e2b38a7f95","FileName":"ability_Stab_physical_hover.png","FileSize":16263,"Type":4,"DateTime":"2026-11-10T05:59:03.266Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6dfc90b5-145c-4737-804c-67ea9b5461e0","FileName":"ability_Stab_physical_pressed.png","FileSize":15574,"Type":4,"DateTime":"2026-11-10T05:59:03.2709999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"9f2531a2-d235-49f6-b83e-e5f82ecd39c5","FileName":"Character_English_Govenor_02.fbx","FileSize":394156,"Type":7,"DateTime":"2026-11-10T18:42:58.1789999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2b78cca7-7d05-4f3c-922a-dce3457ddc40","FileName":"SM_Wep_Axe_01.fbx","FileSize":28396,"Type":7,"DateTime":"2026-11-10T23:11:01.697Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"996b2df1-45bb-42c3-9e27-3b38e36a569c","FileName":"SK_Character_Android_Female_01.fbx","FileSize":753148,"Type":7,"DateTime":"2026-11-12T18:01:01.598Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"57f647ec-296c-458d-af1b-0de69419d621","FileName":"statuseffects_Marked_default_wip.png","FileSize":1852,"Type":4,"DateTime":"2026-11-16T23:01:20.246Z"}
+]}
+}

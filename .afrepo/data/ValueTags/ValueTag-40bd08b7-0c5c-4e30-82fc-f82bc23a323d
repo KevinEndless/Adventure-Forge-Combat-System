@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-40bd08b7-0c5c-4e30-82fc-f82bc23a323d",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Cooldown","ID":"563ce74d-89e6-46a6-b913-b077ef1abf6b","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"68f920a7-c4eb-4529-b3fa-810d3fb342c5","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"b127b0f8-2b1f-4a52-b9b1-bb84975084a2","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"e3cd8010-ddc4-4244-bb93-89a2cd42bf51","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"1","ID":"259f9016-bcdd-4eed-8abd-9d84d60d0200","isActive":true}
+]},
+"ToolName":"Cooldown",
+"AuthorName":"",
+"dataVersion":16,
+"AFCombatStatus":{"Version":1,"On":true,"Starts":[],"Ends":"zero","Countdown":true,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block","Dim":true}
+}

@@ -1,0 +1,16 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-7cc990a3-d3b6-4af4-8c46-0f5028ca997b",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Armor","ID":"1b489c77-8380-466f-8c1b-2644bb8e6df1","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d00bfe3e-c432-4fdb-9a03-cdf6ac93decd","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"42c9bc73-4aa2-4bf7-aa23-ec8c360bfd29","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"62c8d1cb-a638-4f2e-a88c-066a2c96edb4","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"0","ID":"3d98301f-c403-4bd4-ac20-9911fc4bc825","isActive":true}
+]},
+"ToolName":"Armor",
+"AuthorName":"",
+"dataVersion":16,
+"AFCombatStatus":{"Version":1,"On":false,"Starts":[],"Ends":"logic","Countdown":false,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block"},
+"AFValueLimits":{"Version":1,"Min":"0"}
+}

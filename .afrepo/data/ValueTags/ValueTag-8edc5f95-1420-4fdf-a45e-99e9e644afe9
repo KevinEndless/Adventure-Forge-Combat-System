@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-8edc5f95-1420-4fdf-a45e-99e9e644afe9",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Have Donut","ID":"67dbf77d-1e44-4094-8aa1-9b2d1184312c","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d6b6e6fd-867d-4bb7-99ec-1ba4eb459ac9","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"d1a8992a-d677-4996-bf43-270f528ef10d","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"dab77f60-a976-463e-b7f1-ce6b76319ea4","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"0","ID":"8345c7b5-da2a-4824-a50b-3a7e673aca51","isActive":true}
+]},
+"ToolName":"Have Donut",
+"AuthorName":"",
+"dataVersion":16
+}

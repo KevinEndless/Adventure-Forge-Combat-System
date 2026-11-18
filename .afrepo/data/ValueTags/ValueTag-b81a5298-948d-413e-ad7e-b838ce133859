@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-b81a5298-948d-413e-ad7e-b838ce133859",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Physical Damage Type","ID":"ce2eac2f-cbc9-4a6a-ace9-c5b9769d93b7","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"4c97c9c6-8291-43b4-9291-0973741e27a2","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"0deaa0ad-4e52-47b8-9a0d-427beb16f0c2","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":1,"ID":"51361663-04f0-4aba-82bf-9651cbb243c0","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"Slashing","ID":"c5de0657-7f6f-490c-8437-3b9ac23762d5","isActive":true}
+]},
+"ToolName":"Physical Damage Type",
+"AuthorName":"",
+"dataVersion":16,
+"AFChoices":{"Version":1,"Mode":"one","Options":["Slashing","Crushing","Piercing"],"AllowNone":false,"Renamed":{"Option 1":"Slashing","Option 2":"Crushing","Option 3":"Piercing"}}
+}

@@ -1,0 +1,12 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"83903f02-df88-4e92-97c1-b0a8e64ac43f",
+"Name":"AdventureData.zip",
+"PlayfabID":null,
+"LocalPath":"AdventureData/AdventureData.json",
+"LastChangedTime":"2026-10-14T18:56:09.47Z",
+"Type":"AdventureData",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[]}
+}

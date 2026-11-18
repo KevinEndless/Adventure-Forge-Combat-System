@@ -1,0 +1,10 @@
+{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[NewContentManager+ManifestEntry, Assembly-CSharp]], mscorlib",
+"Default_AdventureAssetsManifest":"@manifest/Default_AdventureAssetsManifest",
+"Default_LocationsManifest":"@manifest/Default_LocationsManifest",
+"Default_IsoSceneThumbnailsManifest":"@manifest/Default_IsoSceneThumbnailsManifest",
+"83903f02-df88-4e92-97c1-b0a8e64ac43f":"@manifest/83903f02-df88-4e92-97c1-b0a8e64ac43f",
+"29cceeff-35bb-41e5-bbb7-b61d92ced9c7":"@manifest/29cceeff-35bb-41e5-bbb7-b61d92ced9c7",
+"19e3ab0b-ab5d-44a1-9b16-b63584f82d33":"@manifest/19e3ab0b-ab5d-44a1-9b16-b63584f82d33",
+"ea18bb53-cfc3-4cdb-8dbe-76c582bf0e5e":"@manifest/ea18bb53-cfc3-4cdb-8dbe-76c582bf0e5e"
+}

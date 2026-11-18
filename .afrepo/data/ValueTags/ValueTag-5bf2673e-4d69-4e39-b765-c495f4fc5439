@@ -1,0 +1,16 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-5bf2673e-4d69-4e39-b765-c495f4fc5439",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"HP","ID":"bf012333-c813-4ad2-b128-7dc46eb26dcb","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"26b0a5ce-0748-49eb-9c1f-65d5bcfbecaf","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"9fd37192-de7a-4ac6-9d3d-85afe8e9e7d6","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"44a5e461-9e3b-446e-bf78-f8c3d51a7f3b","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"50","ID":"96f90517-e925-4795-972c-a004cb282708","isActive":true}
+]},
+"ToolName":"HP",
+"AuthorName":"",
+"dataVersion":16,
+"AFCombatStatus":{"Version":1,"On":false,"Starts":[],"Ends":"logic","Countdown":false,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block"},
+"AFValueLimits":{"Version":1,"Max":"50"}
+}

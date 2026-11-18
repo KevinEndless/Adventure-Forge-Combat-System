@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-34f3ea05-f426-49b4-8113-4064f42eb3e5",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Damage Type","ID":"7cefa138-8148-4b31-a565-c4d3f83f91b4","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"9d4f1463-9f71-4f29-955f-f4cc2c283d0d","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"7caf702c-b073-42eb-81b2-4a8154ff28a2","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":1,"ID":"7f40b704-63b2-4048-8c62-80b9e6d545cf","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"Physical","ID":"14676f92-9954-4689-9f30-a2cd4c1a8b9c","isActive":true}
+]},
+"ToolName":"Damage Type",
+"AuthorName":"",
+"dataVersion":16,
+"AFChoices":{"Version":1,"Mode":"one","Options":["Physical","Magical"],"AllowNone":false,"Renamed":{"Option 1":"Physical","Melee":"Physical","Option 2":"Magical"}}
+}

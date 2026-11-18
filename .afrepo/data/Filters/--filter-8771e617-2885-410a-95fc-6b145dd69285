@@ -1,0 +1,13 @@
+{
+"$type":"EndlessAdv.AuthDatas.FilterData, Assembly-CSharp",
+"TextLogics":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"--filter-8771e617-2885-410a-95fc-6b145dd69285",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Burning Characters","ID":"71d0dede-5556-4651-bfdb-1ba4451d8ad6","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1542eb6a-51b9-4662-bb3c-8e69e1a52ab2","isActive":false},
+{"$type":"EAOBJDatalistLogicConditionFilterComponentData, Assembly-CSharp","conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.ConditionStatement, Assembly-CSharp","Comparison":1,"Conjunction":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2391},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":111,"ID":null}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":60},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":8,"ID":"ValueTag-5f19e0f4-fe9e-469b-8824-77e80021ad02"}]}}]},"isEnabled":true,"PassCondition":0,"OnLabelChanged":null}]},"filterType":0,"ID":"d9776d03-44f4-4c79-bcd6-88aeb12fe494","isActive":false}
+]},
+"ToolName":"Burning Characters",
+"AuthorName":"",
+"dataVersion":16
+}

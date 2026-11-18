@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-9d977d25-ec4a-4d1e-8631-005144e71cf1",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Click","ID":"b56b1a22-8a01-4f16-ae2b-42bb363a053e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"07ad6589-1c83-40f0-bc24-391c2256f58e","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"720d4d51-3117-4574-a92a-cb8701e7a16d","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":1,"ID":"a570143a-4ff2-421e-b9fc-ec7c0285a3cc","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"357aa2ed-a01f-4948-8e3a-9a4688710ecf","isActive":false}
+]},
+"ToolName":"Click",
+"AuthorName":"",
+"dataVersion":16,
+"AFValueKind":{"Version":1,"Kind":"image"}
+}

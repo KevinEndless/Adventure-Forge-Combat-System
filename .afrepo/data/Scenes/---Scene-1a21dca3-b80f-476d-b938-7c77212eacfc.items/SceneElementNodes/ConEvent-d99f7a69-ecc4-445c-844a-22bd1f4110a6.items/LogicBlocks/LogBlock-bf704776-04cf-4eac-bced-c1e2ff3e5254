@@ -1,0 +1,22 @@
+{
+"$type":"EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp",
+"ParentSceneID":"ConEvent-d99f7a69-ecc4-445c-844a-22bd1f4110a6",
+"ParentGroupID":"ConEvent-d99f7a69-ecc4-445c-844a-22bd1f4110a6",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["Conversation"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":150.0,"y":-220.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"LogBlock-bf704776-04cf-4eac-bced-c1e2ff3e5254",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Logic block","ID":"18d3ea6c-6e8e-423f-8ed4-2e024d39c3c4","isActive":false},
+{"$type":"EAOBJLogicContextAsignComponentData, Assembly-CSharp","customContext":999,"ID":"38928af0-7503-4458-b90a-35a945df34da","isActive":false},
+{"$type":"EAOBJGenericLogicComponentData, Assembly-CSharp","editorLabel":"Logic To Trigger","IsEnabled":true,"LogicList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"b4b67459-6953-488f-82c0-c7345ee1093c","isActive":false,"AllActionsList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8c4e2ea3-1a11-42bf-9c9b-d0206700789f","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-f7ad13af-9c69-4a2a-927f-439cd5aa0e49","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"b57dfe55-f38f-4297-a3f2-85a085a3e03d","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"2250bb57-c96b-4b72-819b-7c87eb3b428c","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"afb45042-f31d-4668-a380-830887cdf6ad","isActive":false}
+]},
+"ToolName":"Logic block",
+"AuthorName":"",
+"dataVersion":16
+}

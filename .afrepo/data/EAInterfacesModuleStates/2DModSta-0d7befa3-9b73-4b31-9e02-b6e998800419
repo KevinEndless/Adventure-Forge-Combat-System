@@ -1,0 +1,11 @@
+{
+"$type":"EndlessAdv.AuthDatas.EAInterfaceModuleStateData, Assembly-CSharp",
+"ID":"2DModSta-0d7befa3-9b73-4b31-9e02-b6e998800419",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Hover","ID":"73580553-a752-4f2e-992b-11a46e6db2a8","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"db41dfec-3a2f-487e-a4d9-6a14c5b92286","isActive":false}
+]},
+"ToolName":"Hover",
+"AuthorName":"",
+"dataVersion":16
+}

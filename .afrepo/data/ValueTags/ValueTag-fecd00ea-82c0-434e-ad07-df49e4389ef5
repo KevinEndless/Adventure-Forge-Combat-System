@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-fecd00ea-82c0-434e-ad07-df49e4389ef5",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Weapon","ID":"eb0990df-cf72-4f73-9940-dc0e9c71e424","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"232a5955-5721-47f3-a1b7-a4890dd6ea5f","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"8b8bf50a-cea9-471e-bd6b-b89d98ebfa32","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":1,"ID":"ff57b75b-1e5a-4b0f-a23f-5f66f56457f1","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"Sword","ID":"67aa89c6-af0e-4366-9fa2-b0caebb6ca5b","isActive":true}
+]},
+"ToolName":"Weapon",
+"AuthorName":"",
+"dataVersion":16,
+"AFChoices":{"Version":1,"Mode":"one","Options":["Sword","Club","Dagger","Pistol"],"AllowNone":false,"Renamed":{"Option 1":"Sword","Swo":"Sword","Option 2":"Club","Option 3":"Dagger","Option 4":"Pistol"}}
+}

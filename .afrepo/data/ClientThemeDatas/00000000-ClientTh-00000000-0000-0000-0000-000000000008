@@ -1,0 +1,13 @@
+{
+"$type":"EndlessAdv.AuthDatas.CharacterStyleFilterClientThemeItemData, Assembly-CSharp",
+"ID":"00000000-ClientTh-00000000-0000-0000-0000-000000000008",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"CharacterStyleFilter","ID":"1261fe95-21c9-4492-a2af-263d0fc721a2","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"60c79f9e-bc1e-4a08-baa3-01527d3d026f","isActive":false},
+{"$type":"EAOBJCharacterStyleFilterComponentData, Assembly-CSharp","styleType":0,"opacity":1.0,"shadingRange":1.0,"shadingRotation":0.0,"ID":"0953fbd7-3990-42be-a76d-cf6ca18240b6","isActive":false},
+{"$type":"EAOBJCharacterOutlineStyleComponentData, Assembly-CSharp","ColorOutline":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":1.0},"Width":0.18,"ID":"c93e551c-9c3d-40f8-926a-3b0243c546fd","isActive":false}
+]},
+"ToolName":"CharacterStyleFilter",
+"AuthorName":"",
+"dataVersion":16
+}

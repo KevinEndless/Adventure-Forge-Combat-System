@@ -1,0 +1,16 @@
+{
+"$type":"EndlessAdv.AuthDatas.ArrayTagData, Assembly-CSharp",
+"ElementData":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TagData, Assembly-CSharp]], mscorlib","$values":[]},
+"HasFixedSize":false,
+"FixedSize":1,
+"ID":"ArrayTag-bd78f9c6-7bf0-4798-82d1-8f02a06c5ae6",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Known Abilities","ID":"2adeb882-8bb0-43a3-acc8-2f8f96e6472d","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"f9660386-2035-4b43-86e3-e8d32b3d93a7","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"f1878ab0-51fe-4b22-b312-6ad3562db941","isActive":false}
+]},
+"ToolName":"Known Abilities",
+"AuthorName":"",
+"dataVersion":16,
+"AFListHolds":{"Version":1,"Kinds":["Ability"]}
+}

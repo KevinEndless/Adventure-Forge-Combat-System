@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-952eddb5-7cd1-464c-8682-c11253978eb5",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Damage","ID":"6e996a3b-a075-41d8-8f64-ecec10427bc3","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"b07a4cc5-860b-43bb-b46a-845baad71e94","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"e338c8ff-7dd3-4c6b-90f1-b45375f975bc","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"133221a6-e51e-4857-ae10-ed5dc50fc312","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"9e1782b0-dd6d-4a7c-b90f-14b012f297eb","isActive":false}
+]},
+"ToolName":"Damage",
+"AuthorName":"",
+"dataVersion":16
+}

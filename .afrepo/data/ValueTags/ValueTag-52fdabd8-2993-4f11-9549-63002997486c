@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-52fdabd8-2993-4f11-9549-63002997486c",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Speed","ID":"96c91fb6-be53-402f-a9b9-7411695534fa","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"33b84770-40ab-4003-8ed8-9a8bdbdff865","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"7b78e319-3979-4e1b-b21b-d3999509183d","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"aeac9ace-316c-44f3-8756-08f5d7d81fad","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"3","ID":"b36ccc18-4b16-4988-8a0b-e3776656a622","isActive":true}
+]},
+"ToolName":"Speed",
+"AuthorName":"",
+"dataVersion":16
+}

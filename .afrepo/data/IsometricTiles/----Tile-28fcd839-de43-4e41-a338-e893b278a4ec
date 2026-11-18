@@ -1,0 +1,19 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricTileDefinitionData, Assembly-CSharp",
+"DefaultTileVariations":null,
+"TileVariationsForState":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","$values":[]},
+"InitialStateID":"00000000----State-00000000-0000-0000-0000-000000000000",
+"WalkableInExploreMode":false,
+"LineOfSightBlockDefaultSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"LineOfSightBlockVariationSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"Categories":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"ID":"----Tile-28fcd839-de43-4e41-a338-e893b278a4ec",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"New Tile","ID":"03bbc8cb-fd78-494e-8159-252c9c51e505","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"23aee042-008c-49cb-beea-bd948a244d4f","isActive":false},
+{"$type":"EATilesStatesComponentData, Assembly-CSharp","TileVariationsForStateDictionary":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","00000000----State-00000000-0000-0000-0000-000000000000":{"$type":"EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp","ImageFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["67091f7a-346a-461f-b86a-fa789cacd42a"]},"Pivots":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.64}]},"NormalMapFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"StateID":"00000000----State-00000000-0000-0000-0000-000000000000","OnCharacterEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnCharacterExitLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}},"---State-cf875962-592d-4f4e-b361-25a7132c83b5":{"$type":"EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp","ImageFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["b69dba4a-be47-4726-b438-ced1b9d33426"]},"Pivots":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.64}]},"NormalMapFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"StateID":"---State-cf875962-592d-4f4e-b361-25a7132c83b5","OnCharacterEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnCharacterExitLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}}},"States":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["00000000----State-00000000-0000-0000-0000-000000000000","---State-cf875962-592d-4f4e-b361-25a7132c83b5"]},"ID":"50a43b1d-af2b-4b12-a698-0fbb1c8cf998","isActive":false}
+]},
+"ToolName":"New Tile",
+"AuthorName":"",
+"dataVersion":16
+}

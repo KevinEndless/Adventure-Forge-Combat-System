@@ -1,0 +1,32 @@
+{
+"$type":"EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp",
+"ParentSceneID":"---Scene-1a21dca3-b80f-476d-b938-7c77212eacfc",
+"ParentGroupID":"---Scene-1a21dca3-b80f-476d-b938-7c77212eacfc",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-1a21dca3-b80f-476d-b938-7c77212eacfc"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":20.0,"y":-360.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"LogBlock-663d85c3-2acd-45b5-b267-cf889e014331",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Logic block","ID":"4d0af09b-8176-451b-bdf4-486a687825ab","isActive":false},
+{"$type":"EAOBJLogicContextAsignComponentData, Assembly-CSharp","customContext":999,"ID":"ad6b8cb9-b71b-48f5-b5e6-803b99a79247","isActive":false},
+{"$type":"EAOBJGenericLogicComponentData, Assembly-CSharp","editorLabel":"Logic To Trigger","IsEnabled":true,"LogicList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2861}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":125},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":4,"ID":"ConEvent-ef7a2628-5246-4c56-8a00-cd24383d75cc"}]}}]},"isEnabled":true,"OnLabelChanged":null}]},"isEnabled":true,"ID":"-Actions-6b51d569-436a-4cf3-894c-9c7f7ce56dbb","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"c5074827-b2e4-4fee-87ad-4c61e996b61b","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"54f8cfe5-0d03-4541-af90-49a7d6b48559","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]},"ID":"39685feb-217c-4882-91b9-10660a2f80d5","isActive":false,"AllActionsList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2861}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":125},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":4,"ID":"ConEvent-ef7a2628-5246-4c56-8a00-cd24383d75cc"}]}}]},"isEnabled":true,"OnLabelChanged":null}]},"isEnabled":true,"ID":"-Actions-6b51d569-436a-4cf3-894c-9c7f7ce56dbb","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"c5074827-b2e4-4fee-87ad-4c61e996b61b","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"54f8cfe5-0d03-4541-af90-49a7d6b48559","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]}},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"0fad541f-7160-4d76-88b6-4290625f5792","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-3f5ed20e-a2f3-4a58-83d9-cc582f7796e5","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"85dfa68a-cd72-4bf9-b129-fcc1b668c583","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"a61ffd9f-8e05-4628-898a-fd9a5a9424e9","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"e446ee65-fa8e-428a-b931-18b0a2ace3bf","isActive":false}
+]},
+"ToolName":"Logic block",
+"AuthorName":"",
+"dataVersion":16
+}

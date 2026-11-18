@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-b38ae284-aca6-49f1-b704-f66b53f93c8d",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Pierce","ID":"0aa0e83a-309c-4e58-8612-d5310ced0844","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"c3eeb904-9bf5-4736-a3c2-72ac31878c2a","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"ccdea746-bb7a-46ed-92c8-c44637ca056c","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"de3be084-4842-4b41-b0e8-d4ffff1fd20d","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"53a2bfad-28f8-4c35-9c9a-9e47729243c8","isActive":false}
+]},
+"ToolName":"Pierce",
+"AuthorName":"",
+"dataVersion":16
+}

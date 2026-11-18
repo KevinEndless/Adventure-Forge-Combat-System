@@ -1,0 +1,39 @@
+{
+"$type":"EndlessAdv.AuthDatas.EAInterfaceSceneData, Assembly-CSharp",
+"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},
+"SceneElementNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], mscorlib"
+}},
+"LogicBlocks":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib"
+}},
+"persistentInterfaces":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp]], mscorlib"
+}},
+"DefaultTransition":1,
+"TriggersV2":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerDataV2, Assembly-CSharp]], mscorlib]], mscorlib"},
+"Triggers":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerData, Assembly-CSharp]], mscorlib]], mscorlib"},
+"isFirstTimeLoaded":true,
+"ParentGroupID":null,
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"---Scene-aa35e490-810a-4026-b691-6c909ed0cd92",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"2D Scene","ID":"186207b0-0a10-4ddd-93da-a6895450faa7","isActive":false},
+{"$type":"EAOBJPersistentInterfaceAsignerComponentData, Assembly-CSharp","persistentUIID":null,"ID":"483eba6d-2bef-425d-a81b-e6ebda0a225c","isActive":false},
+{"$type":"EAOBJ2DEditorHandlerComponentData, Assembly-CSharp","screen2DData":{"$type":"EndlessAdv.AuthDatas.EAInterfaceData, Assembly-CSharp","CanvasData":{"$type":"EAInterfaceCanvasData, Assembly-CSharp","ReferenceWidth":1920.0,"ReferenceHeight":1080.0,"CanvasColor":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":0.0},"hudSizePresetType":2,"hudPivotPosition":6,"hudAnchorToTargetPosition":3,"hudOffset":{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":0.0},"SortingOrder":0},"Modules":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.EAInterfaceModuleData, Assembly-CSharp]], mscorlib","$values":[]},"Tags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"CanBeUsedAsHUD":false,"ID":"---Scene-aa35e490-810a-4026-b691-6c909ed0cd92","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"2D Scene","ID":"0bafcde0-0c16-4aa4-b779-d60f684013aa","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"705a8e7a-b774-45c8-8392-9888ef06fea3","isActive":false}
+]},"ToolName":"2D Scene","AuthorName":"","dataVersion":16},"ID":"3ceff8b1-fd70-4c06-9a51-5d486eb7a744","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"97a891a2-9c92-4dfb-b1a6-e3ff58c2456f","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"ac3928ab-e273-4438-ab73-f33d7785a9ba","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-064e2381-21de-45ff-a789-c1d03cc1a98a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"8ae55555-5d55-4ba9-81c6-6e2fbfe5a1d6","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"11486b4d-35fa-42c8-8b35-dc2371feaba9","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"1d697151-adcb-4dbd-95e1-0696e17d281b","isActive":false}
+]},
+"ToolName":"2D Scene",
+"AuthorName":"",
+"dataVersion":16
+}
