@@ -120,6 +120,6 @@
 "ToolName":"Bogre Stan",
 "AuthorName":"",
 "dataVersion":16,
-"AFAI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":["-Ability-de6bf69f-efff-4c2d-83be-1315aaef5341"],"TileWorth":"","Preset":"custom","From":"aggressive","Situations":[{"HealthBelow":30,"Conditions":[],"Preset":"","Set":{"Caution":80,"Distance":4}}],"Aggression":81,"Support":6,"Caution":22,"Distance":0},
+"AFAI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":["-Ability-de6bf69f-efff-4c2d-83be-1315aaef5341"],"TileWorth":"","Preset":"custom","From":"aggressive","Situations":[{"HealthBelow":30,"Conditions":[],"Preset":"","Set":{"Caution":80,"Distance":4}}],"Aggression":80,"Support":7,"Caution":22,"Distance":0},
 "AFFaction":"Faction-110cf338-60ea-4b23-894d-c9efa32392ec"
 }
