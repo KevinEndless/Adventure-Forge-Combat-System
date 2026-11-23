@@ -12,5 +12,5 @@
 "AuthorName":"",
 "dataVersion":16,
 "AFCombatStatus":{"Version":1,"On":false,"Starts":[],"Ends":"logic","Countdown":false,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block"},
-"AFValueLimits":{"Version":1,"Max":"50","Min":"0"}
+"AFValueLimits":{"Version":1,"Max":"50","Min":"0","Start":"max"}
 }

@@ -116,5 +116,6 @@
 "ToolName":"Pirate Rifleman",
 "AuthorName":"",
 "dataVersion":16,
-"AFClasses":{"Version":1,"Classes":["ChaClass-62172ff5-8f05-43aa-b9ee-e60c85bd23ff"],"OffAbilities":[],"OffModifiers":[],"KeepOwnAI":false}
+"AFClasses":{"Version":1,"Classes":["ChaClass-62172ff5-8f05-43aa-b9ee-e60c85bd23ff"],"OffAbilities":[],"OffModifiers":[],"KeepOwnAI":false},
+"AFAI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[],"Preset":"custom","From":"balanced","Situations":[],"DistanceAuto":true,"DistanceOffset":0,"Aggression":90,"Support":10,"Caution":100,"Distance":2}
 }
