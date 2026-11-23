@@ -14,7 +14,7 @@
 "ToolName":"Assassin",
 "AuthorName":"",
 "dataVersion":16,
-"AFClass":{"Version":1,"Modifiers":[],"Abilities":[{"AbilityID":"-Ability-dae1b9bf-3430-4c1b-b939-5f1c02c80e76","AvailableWhen":[]},{"AbilityID":"-Ability-fd46893d-b746-4f60-9b34-e8cb069268bd","AvailableWhen":[]}],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
+"AFClass":{"Version":1,"Modifiers":[],"Abilities":[{"AbilityID":"-Ability-dae1b9bf-3430-4c1b-b939-5f1c02c80e76","AvailableWhen":[]},{"AbilityID":"-Ability-fd46893d-b746-4f60-9b34-e8cb069268bd","AvailableWhen":[]},{"AbilityID":"-Ability-0e145689-fd54-436a-9f72-8fb928886ec6","AvailableWhen":[]}],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
 {"ID":"health","On":false,"Tag":""},
 {"ID":"tag_high","On":true,"Tag":"ValueTag-012021cc-5174-4716-82f1-d9c208b82ead"},
 {"ID":"danger_me","On":false,"Tag":""},

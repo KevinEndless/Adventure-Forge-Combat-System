@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_VFX_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/VFX/",
-"LastChangedTime":"2026-11-23T19:14:21.479Z",
+"LastChangedTime":"2026-11-23T23:03:20.2079999Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -32,6 +32,11 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b2f79ab1-f3ec-43a9-bc2c-373d9536263f","FileName":"Vanish.afvfx","FileSize":197069,"Type":0,"DateTime":"2026-11-18T08:21:00.8440001Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"507e7574-84e9-49a2-aa81-538f7b4e9c7d","FileName":"Healing_Heal.afvfx","FileSize":57743,"Type":0,"DateTime":"2026-11-23T19:14:21.4159998Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ce277686-cb3b-4e6f-b6d8-2789340ea16b","FileName":"Healing_Cast.afvfx","FileSize":16421,"Type":0,"DateTime":"2026-11-23T19:14:21.42Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"87ffa8fd-238e-42ed-bcac-ff7217e4654d","FileName":"Healing_Charge.afvfx","FileSize":9267,"Type":0,"DateTime":"2026-11-23T19:14:21.4260001Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"87ffa8fd-238e-42ed-bcac-ff7217e4654d","FileName":"Healing_Charge.afvfx","FileSize":9267,"Type":0,"DateTime":"2026-11-23T19:14:21.4260001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"0324291c-4461-416c-bd61-874c1c09ce80","FileName":"Poison_Bolt_Hit.afvfx","FileSize":102461,"Type":0,"DateTime":"2026-11-23T23:03:02.519Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"fd9d9d8c-6f4d-4d2d-af4a-d68902271c65","FileName":"Poison_Bolt_Impact.afvfx","FileSize":208623,"Type":0,"DateTime":"2026-11-23T23:03:02.522Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"73541414-785f-44bc-b51f-b481e4a744bd","FileName":"Poison_Bolt_InFlight.afvfx","FileSize":131734,"Type":0,"DateTime":"2026-11-23T23:03:02.529Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f00f2a83-a641-44fd-9806-d013a96e9fbe","FileName":"Poison_Bolt_Cast.afvfx","FileSize":181694,"Type":0,"DateTime":"2026-11-23T23:03:02.535Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"31b3a87e-efc3-46fa-908e-c14ee59566db","FileName":"Poison_Bolt_Charge.afvfx","FileSize":104117,"Type":0,"DateTime":"2026-11-23T23:03:02.5409998Z"}
 ]}
 }

@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_Abilities_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/Abilities/",
-"LastChangedTime":"2026-11-23T21:10:22.4869999Z",
+"LastChangedTime":"2026-11-23T22:49:26.348Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -57,6 +57,9 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"cb43e0bd-3100-41ea-8afe-cf2dd5495d8b","FileName":"ability_Snipe_physical_default.png","FileSize":16731,"Type":4,"DateTime":"2026-11-23T20:39:57.5769999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ccff3273-61ad-48db-acca-41025e38af85","FileName":"ability_PiercingShot_physical_pressed.png","FileSize":15825,"Type":4,"DateTime":"2026-11-23T20:44:34.1949999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"46338f2a-ce85-4723-93e9-8d2ceac051c5","FileName":"ability_PiercingShot_physical_default.png","FileSize":16598,"Type":4,"DateTime":"2026-11-23T20:44:34.2039999Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a3b5d2ef-495d-4f7e-a78a-d40f8d511a76","FileName":"ability_PiercingShot_physical_hover.png","FileSize":16336,"Type":4,"DateTime":"2026-11-23T20:44:34.213Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a3b5d2ef-495d-4f7e-a78a-d40f8d511a76","FileName":"ability_PiercingShot_physical_hover.png","FileSize":16336,"Type":4,"DateTime":"2026-11-23T20:44:34.213Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"20689721-8e58-4cf5-9b21-da164719d0fa","FileName":"ability_PoisonBolt_poison-status_default.png","FileSize":16321,"Type":4,"DateTime":"2026-11-23T22:48:56.9130001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"07b63e07-426f-45ea-a255-3fb3c5d64153","FileName":"ability_PoisonBolt_poison-status_hover.png","FileSize":16191,"Type":4,"DateTime":"2026-11-23T22:48:56.917Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6cfff4cf-4ede-4fc8-acd2-aed94f7ebf3c","FileName":"ability_PoisonBolt_poison-status_pressed.png","FileSize":15450,"Type":4,"DateTime":"2026-11-23T22:48:56.924Z"}
 ]}
 }
