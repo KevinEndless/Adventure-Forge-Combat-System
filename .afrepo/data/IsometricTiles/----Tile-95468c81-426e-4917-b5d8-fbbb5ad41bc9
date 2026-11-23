@@ -1,0 +1,19 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricTileDefinitionData, Assembly-CSharp",
+"DefaultTileVariations":null,
+"TileVariationsForState":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","$values":[]},
+"InitialStateID":"00000000----State-00000000-0000-0000-0000-000000000000",
+"WalkableInExploreMode":false,
+"LineOfSightBlockDefaultSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"LineOfSightBlockVariationSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"Categories":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"ID":"----Tile-95468c81-426e-4917-b5d8-fbbb5ad41bc9",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"drive-download-20261120T183949Z-1-001 · Floor · All but N","ID":"93e503ea-aa0e-4754-b383-4a826899ffc2","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"cc7035e3-056b-4237-9371-6889dc0c8e54","isActive":false},
+{"$type":"EATilesStatesComponentData, Assembly-CSharp","TileVariationsForStateDictionary":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","00000000----State-00000000-0000-0000-0000-000000000000":{"$type":"EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp","ImageFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["60a98b6f-e4fb-4d00-b0ee-73082f01676a"]},"Pivots":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.6399999856948853}]},"NormalMapFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"StateID":"00000000----State-00000000-0000-0000-0000-000000000000","OnCharacterEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnCharacterExitLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}}},"States":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["00000000----State-00000000-0000-0000-0000-000000000000"]},"ID":"38d373d9-c400-44bc-acbb-3a4b77765f17","isActive":false}
+]},
+"ToolName":"drive-download-20261120T183949Z-1-001 · Floor · All but N",
+"AuthorName":"",
+"dataVersion":16
+}

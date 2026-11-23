@@ -11,5 +11,7 @@
 "ToolName":"Cooldown",
 "AuthorName":"",
 "dataVersion":16,
-"AFCombatStatus":{"Version":1,"On":true,"Starts":[],"Ends":"zero","Countdown":true,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block","Dim":true}
+"AFCombatStatus":{"Version":1,"On":false,"Starts":[],"Ends":"zero","Countdown":true,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block","Dim":true},
+"AFValueLimits":{"Version":1,"Max":"","Min":"1","Start":"min"},
+"AFCountsDown":true
 }

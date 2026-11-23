@@ -1,0 +1,19 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricTileDefinitionData, Assembly-CSharp",
+"DefaultTileVariations":null,
+"TileVariationsForState":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","$values":[]},
+"InitialStateID":"00000000----State-00000000-0000-0000-0000-000000000000",
+"WalkableInExploreMode":false,
+"LineOfSightBlockDefaultSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"LineOfSightBlockVariationSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"Categories":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"ID":"----Tile-2564960b-13ed-456c-b0ac-d68d43f046fe",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Wall Tiles · Middle · Straight SE-NW","ID":"77ce1dcd-0ce2-40b0-bd75-67e45d0e9b4c","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"cfa45b77-43dc-4a53-8eab-fdbba07c8c38","isActive":false},
+{"$type":"EATilesStatesComponentData, Assembly-CSharp","TileVariationsForStateDictionary":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","00000000----State-00000000-0000-0000-0000-000000000000":{"$type":"EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp","ImageFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["4b52088a-48df-4af7-84a4-22ab26720eac","8151a26f-ff61-4ad3-85fa-ce1bfd8619ec","9ab4fc72-5c51-4d04-b81b-52b421226304"]},"Pivots":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.6399999856948853},{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.6399999856948853},{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.6399999856948853}]},"NormalMapFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"StateID":"00000000----State-00000000-0000-0000-0000-000000000000","OnCharacterEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnCharacterExitLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}}},"States":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["00000000----State-00000000-0000-0000-0000-000000000000"]},"ID":"74a7972d-49ea-4a2c-88ff-860582d8ee5b","isActive":false}
+]},
+"ToolName":"Wall Tiles · Middle · Straight SE-NW",
+"AuthorName":"",
+"dataVersion":16
+}

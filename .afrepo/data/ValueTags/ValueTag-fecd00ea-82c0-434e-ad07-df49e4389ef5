@@ -11,5 +11,5 @@
 "ToolName":"Weapon",
 "AuthorName":"",
 "dataVersion":16,
-"AFChoices":{"Version":1,"Mode":"one","Options":["Sword","Club","Dagger","Pistol"],"AllowNone":false,"Renamed":{"Option 1":"Sword","Swo":"Sword","Option 2":"Club","Option 3":"Dagger","Option 4":"Pistol"}}
+"AFChoices":{"Version":1,"Mode":"one","Options":["Sword","Club","Dagger","Pistol","Rifle","Shotgun"],"AllowNone":false,"Renamed":{"Option 1":"Sword","Swo":"Sword","Option 2":"Club","Option 3":"Dagger","Option 4":"Pistol","Option 5":"Rifle","Option 6":"Shotgun"}}
 }

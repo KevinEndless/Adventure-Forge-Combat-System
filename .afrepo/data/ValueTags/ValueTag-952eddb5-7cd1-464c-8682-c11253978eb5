@@ -10,5 +10,6 @@
 ]},
 "ToolName":"Damage",
 "AuthorName":"",
-"dataVersion":16
+"dataVersion":16,
+"AFValueLimits":{"Version":1,"Min":"0"}
 }

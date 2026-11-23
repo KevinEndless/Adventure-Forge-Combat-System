@@ -1,0 +1,12 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"db457636-0e87-45d7-8428-2e95da5604ee",
+"Name":"PackedFiles_Adventure_Assets_Tilesets_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Tilesets/",
+"LastChangedTime":"2026-11-20T07:44:39.5179998Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[]}
+}

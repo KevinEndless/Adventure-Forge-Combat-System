@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_VFX_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/VFX/",
-"LastChangedTime":"2026-11-18T08:21:29.5339999Z",
+"LastChangedTime":"2026-11-23T19:14:21.479Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -29,6 +29,9 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"937ef04c-f9a8-4acc-aaca-923853cbb1bf","FileName":"Flintlock_Cast.afvfx","FileSize":128442,"Type":0,"DateTime":"2026-11-18T07:31:10.726Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c62a402c-e723-440a-9f84-159157651f26","FileName":"Marked_Target.afvfx","FileSize":597304,"Type":0,"DateTime":"2026-11-18T07:52:07.1919999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8aa4bc7a-7e71-44b5-a7fe-488de72adfd1","FileName":"Marked_Target-NoMap.afvfx","FileSize":297727,"Type":0,"DateTime":"2026-11-18T07:53:51.101Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b2f79ab1-f3ec-43a9-bc2c-373d9536263f","FileName":"Vanish.afvfx","FileSize":197069,"Type":0,"DateTime":"2026-11-18T08:21:00.8440001Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b2f79ab1-f3ec-43a9-bc2c-373d9536263f","FileName":"Vanish.afvfx","FileSize":197069,"Type":0,"DateTime":"2026-11-18T08:21:00.8440001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"507e7574-84e9-49a2-aa81-538f7b4e9c7d","FileName":"Healing_Heal.afvfx","FileSize":57743,"Type":0,"DateTime":"2026-11-23T19:14:21.4159998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ce277686-cb3b-4e6f-b6d8-2789340ea16b","FileName":"Healing_Cast.afvfx","FileSize":16421,"Type":0,"DateTime":"2026-11-23T19:14:21.42Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"87ffa8fd-238e-42ed-bcac-ff7217e4654d","FileName":"Healing_Charge.afvfx","FileSize":9267,"Type":0,"DateTime":"2026-11-23T19:14:21.4260001Z"}
 ]}
 }

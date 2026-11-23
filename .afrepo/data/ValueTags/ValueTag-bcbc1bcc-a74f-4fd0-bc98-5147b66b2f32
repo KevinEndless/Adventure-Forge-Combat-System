@@ -3,7 +3,7 @@
 "ID":"ValueTag-bcbc1bcc-a74f-4fd0-bc98-5147b66b2f32",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Marked","ID":"9256c42f-000c-4fc3-8f26-bb7a67b894fb","isActive":false},
-{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"81862f39-de66-40d3-aadf-28eab474dc76","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"+1 damage from every hit and tick, until the end of its side's turn.","ID":"81862f39-de66-40d3-aadf-28eab474dc76","isActive":false},
 {"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"9fa6328f-e84d-4549-b16e-c04679c9e7f0","isActive":false},
 {"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"9dd11c45-29c6-40d4-a3ec-30b191456106","isActive":false},
 {"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"1","ID":"f9791234-7eb4-4420-aec5-77c0ae8b4e44","isActive":true}

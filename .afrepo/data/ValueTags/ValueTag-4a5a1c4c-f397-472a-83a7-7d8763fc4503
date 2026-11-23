@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-4a5a1c4c-f397-472a-83a7-7d8763fc4503",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Spent Look","ID":"8426a4a0-be72-4217-9f92-03b9410669bb","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"cb6caeaf-4743-46a4-9037-64121e7a98a2","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"bb2fb925-39af-4bd2-ab74-6d86ea553190","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":1,"ID":"5669cb14-a714-4945-8d39-fefa96d9b847","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"631fd7f3-a5b4-4922-94e7-bb207c014a2f","isActive":false}
+]},
+"ToolName":"Spent Look",
+"AuthorName":"",
+"dataVersion":16,
+"AFValueKind":{"Version":1,"Kind":"image"}
+}

@@ -1,0 +1,15 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"f4f4d73a-d1c2-4939-99ca-edea8b8d19d9",
+"Name":"PackedFiles_Adventure_Assets_Characters_Player_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Characters/Player/",
+"LastChangedTime":"2026-11-23T18:48:47.947Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7236056f-178f-4525-90d9-9f08793df542","FileName":"CaptainBlood_Default.fbx","FileSize":5039164,"Type":7,"DateTime":"2026-11-23T18:47:00.5369999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"1887ca03-6577-4561-9ff2-aac47845d8a1","FileName":"Captain_Jack_Default.fbx","FileSize":5455644,"Type":7,"DateTime":"2026-11-23T18:48:31.375Z"}
+]}
+}

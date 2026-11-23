@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_Abilities_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/Abilities/",
-"LastChangedTime":"2026-11-18T17:16:24.545Z",
+"LastChangedTime":"2026-11-23T18:28:52.4419999Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -43,6 +43,9 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"d8f7a3f9-4e01-4f86-a957-956b52140972","FileName":"ability_reload_pressed.png","FileSize":16049,"Type":4,"DateTime":"2026-11-18T08:50:48.2219998Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"18c67351-2db1-48f3-978d-78e96723a1cc","FileName":"ability_BreakArmor_physical_default.png","FileSize":16146,"Type":4,"DateTime":"2026-11-18T17:16:13.7469999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"eabc5605-b68e-4dcc-b272-52aead8be50b","FileName":"ability_BreakArmor_physical_hover.png","FileSize":16177,"Type":4,"DateTime":"2026-11-18T17:16:13.7550001Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"982aede7-e725-41e5-9321-6fa33b29e8fa","FileName":"ability_BreakArmor_physical_pressed.png","FileSize":15268,"Type":4,"DateTime":"2026-11-18T17:16:13.762Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"982aede7-e725-41e5-9321-6fa33b29e8fa","FileName":"ability_BreakArmor_physical_pressed.png","FileSize":15268,"Type":4,"DateTime":"2026-11-18T17:16:13.762Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"01b5f201-1b63-4186-822a-96eba49c68db","FileName":"ability_Heal_none_default.png","FileSize":16184,"Type":4,"DateTime":"2026-11-23T18:28:52.374Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"bdc013ae-079e-470d-a203-5707f2338e33","FileName":"ability_Heal_none_hover.png","FileSize":15987,"Type":4,"DateTime":"2026-11-23T18:28:52.378Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"31460f26-697b-4fd1-89aa-9ce546c0371a","FileName":"ability_Heal_none_pressed.png","FileSize":15244,"Type":4,"DateTime":"2026-11-23T18:28:52.384Z"}
 ]}
 }

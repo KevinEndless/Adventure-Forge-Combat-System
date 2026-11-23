@@ -4,13 +4,16 @@
 "Name":"PackedFiles_Adventure_Assets_Weapons_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/Weapons/",
-"LastChangedTime":"2026-11-18T18:44:44.601Z",
+"LastChangedTime":"2026-11-23T19:39:34.832Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
 "SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"19426df0-08a3-4533-9c85-ac4e6d72f76e","FileName":"Club.fbx","FileSize":912748,"Type":7,"DateTime":"2026-11-18T17:48:21.5889999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"52994107-7c3f-4aee-80f9-4e9cfe3111d0","FileName":"Dagger.fbx","FileSize":509196,"Type":7,"DateTime":"2026-11-18T18:21:59.161Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5a7fdcf7-a4ea-4cb3-9176-babe4cb63a41","FileName":"Cutlass.fbx","FileSize":786444,"Type":7,"DateTime":"2026-11-18T18:44:24.736Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5a7fdcf7-a4ea-4cb3-9176-babe4cb63a41","FileName":"Cutlass.fbx","FileSize":786444,"Type":7,"DateTime":"2026-11-18T18:44:24.736Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"fa195fbc-cd56-4558-b6d2-a5f2ab70477f","FileName":"Blunderbuss.fbx","FileSize":652812,"Type":7,"DateTime":"2026-11-23T19:39:06.568Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"271b4c3f-6a6c-4e48-bb10-e52df14d6bee","FileName":"Musket.fbx","FileSize":651132,"Type":7,"DateTime":"2026-11-23T19:39:06.572Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"60c25ceb-bb91-4df1-acef-79658f50aeda","FileName":"Flintlock_Pistol.fbx","FileSize":640700,"Type":7,"DateTime":"2026-11-23T19:39:06.5769999Z"}
 ]}
 }

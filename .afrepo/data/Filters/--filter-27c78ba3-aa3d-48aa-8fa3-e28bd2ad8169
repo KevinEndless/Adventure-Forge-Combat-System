@@ -1,0 +1,13 @@
+{
+"$type":"EndlessAdv.AuthDatas.FilterData, Assembly-CSharp",
+"TextLogics":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"--filter-27c78ba3-aa3d-48aa-8fa3-e28bd2ad8169",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Is the caster","ID":"79a8fa2d-d8c3-42b8-acc9-9855484e49a1","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"25b17ab9-b1b1-41d8-b546-5cd186e1a78b","isActive":false},
+{"$type":"EAOBJDatalistLogicConditionFilterComponentData, Assembly-CSharp","conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.ConditionStatement, Assembly-CSharp","Comparison":3,"Conjunction":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2391},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":111,"ID":null}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":212},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":111,"ID":null}]}}]},"isEnabled":true,"PassCondition":0,"OnLabelChanged":null}]},"filterType":0,"ID":"bc2f0135-5a9d-4cea-b6c7-47afb21a7222","isActive":false}
+]},
+"ToolName":"Is the caster",
+"AuthorName":"",
+"dataVersion":16
+}

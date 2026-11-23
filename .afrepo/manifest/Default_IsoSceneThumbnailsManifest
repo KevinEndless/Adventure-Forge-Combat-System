@@ -4,11 +4,11 @@
 "Name":"PackedFiles_IsoSceneThumbnail.zip",
 "PlayfabID":null,
 "LocalPath":"IsoSceneThumbnail",
-"LastChangedTime":"2026-11-18T18:53:08.7439999Z",
+"LastChangedTime":"2026-11-23T19:43:57.6819999Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
 "SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6d8d5336-65ba-4e68-9289-d626d2cb0c9b","FileName":"Location-9ede70a9-18b2-40f5-88ed-ebcf91965ec4.jpg","FileSize":31776,"Type":9,"DateTime":"2026-11-18T18:53:08.7439999Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6d8d5336-65ba-4e68-9289-d626d2cb0c9b","FileName":"Location-9ede70a9-18b2-40f5-88ed-ebcf91965ec4.jpg","FileSize":47121,"Type":9,"DateTime":"2026-11-23T19:43:57.6819999Z"}
 ]}
 }

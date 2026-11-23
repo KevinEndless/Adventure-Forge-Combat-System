@@ -1,0 +1,15 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-cd3914c9-7c8e-49c3-9349-94d935729a41",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Damage/Heal","ID":"ee941a7e-b371-4006-b32b-c86021e8a505","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"eed9e5d9-d5fb-4f9a-8cf8-d3c29cf2e374","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"bd69f8da-0bad-4a46-b4b2-1d2ceea7c9d5","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":1,"ID":"7380e388-1d45-4d6c-b3b2-58ca382f2b2c","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"Damage","ID":"534fa969-316d-418e-ba9a-544c6b36ebae","isActive":true}
+]},
+"ToolName":"Damage/Heal",
+"AuthorName":"",
+"dataVersion":16,
+"AFChoices":{"Version":1,"Mode":"one","Options":["Damage","Heal"],"AllowNone":false,"Renamed":{"Option 1":"Damage","Option 2":"Heal"}}
+}

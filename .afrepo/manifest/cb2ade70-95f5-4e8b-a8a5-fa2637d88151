@@ -1,0 +1,27 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"cb2ade70-95f5-4e8b-a8a5-fa2637d88151",
+"Name":"PackedFiles_Adventure_Assets_Tilesets_drive-download-20261120T183949Z-1-001_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Tilesets/drive-download-20261120T183949Z-1-001/",
+"LastChangedTime":"2026-11-20T18:42:37.2880001Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"37322e31-cf49-4125-91e9-44a15e53639c","FileName":"Wall_A_2X.png","FileSize":204808,"Type":4,"DateTime":"2026-11-20T18:40:35.5050001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f613660f-a7df-4ad7-bf7a-04bb5055e9bd","FileName":"Wall_A_Corner_E-W.png","FileSize":445783,"Type":4,"DateTime":"2026-11-20T18:40:35.509Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"15c592f5-3ea0-465c-92e1-d5aed691f87a","FileName":"Wall_A_Corner_N.png","FileSize":494876,"Type":4,"DateTime":"2026-11-20T18:40:35.5150001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"da571444-15ca-42f6-9ec4-3300c3dfe274","FileName":"Wall_A_Corner_S.png","FileSize":570008,"Type":4,"DateTime":"2026-11-20T18:40:35.522Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ad1c1e12-064a-43ad-b511-b8f016f1f20b","FileName":"Wall_A_T_Back.png","FileSize":585693,"Type":4,"DateTime":"2026-11-20T18:40:35.5299999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"90790f37-30f9-43ef-b2cf-8ebb30394905","FileName":"Wall_A_T_Front.png","FileSize":553864,"Type":4,"DateTime":"2026-11-20T18:40:35.535Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"59f9afb7-de87-43cf-ab3d-2f9f76be4e15","FileName":"Wall_A_X.png","FileSize":553231,"Type":4,"DateTime":"2026-11-20T18:40:35.5409998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"acd56465-461c-4f94-8668-45ff23db455e","FileName":"Wall_A_2X_2.png","FileSize":204808,"Type":4,"DateTime":"2026-11-20T18:42:34.7579998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7f282efb-7a49-4eab-8414-fe7c1318272d","FileName":"Wall_A_Corner_E-W_2.png","FileSize":445783,"Type":4,"DateTime":"2026-11-20T18:42:34.762Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"91a54224-3352-4645-b4b8-59baeb7f9a9d","FileName":"Wall_A_Corner_N_2.png","FileSize":494876,"Type":4,"DateTime":"2026-11-20T18:42:34.7679998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"60a98b6f-e4fb-4d00-b0ee-73082f01676a","FileName":"Wall_A_Corner_S_2.png","FileSize":570008,"Type":4,"DateTime":"2026-11-20T18:42:34.776Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"3872e093-6748-4605-8fde-ce03c9be8d29","FileName":"Wall_A_T_Back_2.png","FileSize":585693,"Type":4,"DateTime":"2026-11-20T18:42:34.7829999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"9b9b497e-b53f-4db2-89c4-988b465a289e","FileName":"Wall_A_T_Front_2.png","FileSize":553864,"Type":4,"DateTime":"2026-11-20T18:42:34.789Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b6f83b33-cc29-45d3-982c-595dbb5e252a","FileName":"Wall_A_X_2.png","FileSize":553231,"Type":4,"DateTime":"2026-11-20T18:42:34.7939999Z"}
+]}
+}

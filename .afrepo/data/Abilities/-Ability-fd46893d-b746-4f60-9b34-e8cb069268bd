@@ -4,7 +4,7 @@
 "ID":"-Ability-fd46893d-b746-4f60-9b34-e8cb069268bd",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Vanish","ID":"7fa80e17-16f5-4dae-976c-f3e37b307bc0","isActive":false},
-{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"19faed62-3a22-485e-b367-a1e59d0a10a5","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"Teleport to an empty tile 1–5 tiles away. 1 AP.","ID":"19faed62-3a22-485e-b367-a1e59d0a10a5","isActive":false},
 {"$type":"EAAbilityPowerComponentData, Assembly-CSharp","powerEquation":null,"powerEquationLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EATextLogicSection, Assembly-CSharp","ID":"ab5c98a8-8e8e-45a2-bfef-12ca6b1d2b97","Label":"0","LogicTextType":1,"Data":null}
 ]}},"ID":"3f02e1d3-4530-4fe7-a02c-0f322b80a956","isActive":false},
@@ -37,7 +37,9 @@
 {"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-b46af970-13bf-4c8d-8915-cd938a2f20ad","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"c25c4338-38fa-446b-920a-5a3fc6e47ab1","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"31c7f5e5-92ec-4a66-a6af-f04826228577","isActive":false}
-]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"cc6faff4-0253-4c99-ba1a-46f56cda74bc","isActive":false},
+]},"ToolName":"","AuthorName":"","dataVersion":16,"AFWorth":{"$type":"EndlessAdv.ExplicitIntLogicItem, Assembly-CSharp","Value":null,"upperLimit":null,"lowerLimit":null,"ValueTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EATextLogicSection, Assembly-CSharp","ID":"4556c853-e577-46d3-81b2-f7d12cc634c5","Label":"0","LogicTextType":1,"Data":null}
+]}},"upperLimitTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[]}},"lowerLimitTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[]}}}},"ID":"cc6faff4-0253-4c99-ba1a-46f56cda74bc","isActive":false},
 {"$type":"EAObjAutoTargettingAIComponentData, Assembly-CSharp","AutoTargetLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"d3e54d7c-7ea7-465d-b96f-26573b3b5233","isActive":false},
 {"$type":"EAObjLineOfSightUserComponentData, Assembly-CSharp","useLineOfSight":false,"ID":"a97c0673-16ca-4765-96b2-7f7a56c0c60e","isActive":true},
 {"$type":"EAAbilityUsePathFindingComponentData, Assembly-CSharp","usePathFinding":false,"ID":"a4586e35-2132-4049-9ebc-76bb15b7b659","isActive":false},
@@ -49,5 +51,6 @@
 "AFCosts":{"Version":1,"Costs":[{"TagID":"ValueTag-012021cc-5174-4716-82f1-d9c208b82ead","Amount":{"$type":"EndlessAdv.ExplicitIntLogicItem, Assembly-CSharp","Value":null,"upperLimit":null,"lowerLimit":null,"ValueTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EATextLogicSection, Assembly-CSharp","ID":"0cc56b54-e7fe-473f-981a-f48d140c2e4c","Label":"1","LogicTextType":1,"Data":null}
 ]}},"upperLimitTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[]}},"lowerLimitTextLogic":{"$type":"EATextLogicFullTextData, Assembly-CSharp","TextSections":{"$type":"System.Collections.Generic.List`1[[EATextLogicSection, Assembly-CSharp]], mscorlib","$values":[]}}}}]},
-"AFSkipCoreRules":true
+"AFSkipCoreRules":true,
+"AFRange":{"Version":1,"Shape":"square","From":1,"Custom":[]}
 }
