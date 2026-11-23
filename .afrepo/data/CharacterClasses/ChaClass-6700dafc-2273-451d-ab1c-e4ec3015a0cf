@@ -14,7 +14,7 @@
 "ToolName":"Brute",
 "AuthorName":"",
 "dataVersion":16,
-"AFClass":{"Version":1,"Modifiers":[],"Abilities":[{"AbilityID":"-Ability-e08639f2-6c43-4101-a962-fc0c2ec4aec3","AvailableWhen":[]}],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
+"AFClass":{"Version":1,"Modifiers":[],"Abilities":[{"AbilityID":"-Ability-e08639f2-6c43-4101-a962-fc0c2ec4aec3","AvailableWhen":[]},{"AbilityID":"-Ability-d77edb27-1b84-4fd3-947d-fcd145a6291e","AvailableWhen":[]},{"AbilityID":"-Ability-b681b0eb-2c10-423e-a247-e9d2be124070","AvailableWhen":[]}],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
 {"ID":"health","On":false,"Tag":""},
 {"ID":"tag_high","On":false,"Tag":""},
 {"ID":"danger_me","On":false,"Tag":""},
@@ -25,5 +25,5 @@
 {"ID":"tag_low","On":false,"Tag":""},
 {"ID":"danger_allies","On":true,"Tag":""},
 {"ID":"targeted_allies","On":true,"Tag":""}
-],"Preset":"custom","From":"guard","Situations":[],"DistanceAuto":true,"DistanceOffset":0,"Aggression":34,"Support":60,"Caution":30,"Distance":0},"Rules":{"Version":1,"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}}
+],"Preset":"custom","From":"guard","Situations":[],"DistanceAuto":true,"DistanceOffset":0,"Aggression":34,"Support":59,"Caution":30,"Distance":0},"Rules":{"Version":1,"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}}
 }

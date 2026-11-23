@@ -1,0 +1,19 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"1cdb92df-70a1-43fa-87ee-d04ff1c4a73c",
+"Name":"PackedFiles_Adventure_Assets_Characters_Player_Crew_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Characters/Player/Crew/",
+"LastChangedTime":"2026-11-23T20:08:47.7469999Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"e9938297-314d-4a05-a5f2-c0808d6fe523","FileName":"Pirate_Assassin_Default.fbx","FileSize":4588444,"Type":7,"DateTime":"2026-11-23T20:08:37.1860001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"945030c0-0409-4749-ad8c-45aa0303c9d1","FileName":"PirateBrute_Default.fbx","FileSize":5430972,"Type":7,"DateTime":"2026-11-23T20:08:37.194Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a33770eb-5c4c-4d25-8823-e4d1586924c0","FileName":"Pirate_Swordsman_Default.fbx","FileSize":4649276,"Type":7,"DateTime":"2026-11-23T20:08:37.2039999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"fa2d939c-9874-4ea1-957a-117f9e2da52d","FileName":"PiratePistoleer_Default.fbx","FileSize":4705932,"Type":7,"DateTime":"2026-11-23T20:08:37.2149999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"1cd2533f-c8e3-4f8b-9e0b-94945b1b50f2","FileName":"Pirate_RM_Default.fbx","FileSize":6698828,"Type":7,"DateTime":"2026-11-23T20:08:37.2239999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"d53f4a2e-7f02-4de1-a957-75b70720aa98","FileName":"Pirate_Arcane_Magician_Default.fbx","FileSize":5370508,"Type":7,"DateTime":"2026-11-23T20:08:37.2320001Z"}
+]}
+}

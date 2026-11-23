@@ -14,7 +14,7 @@
 "ToolName":"Rifleman",
 "AuthorName":"",
 "dataVersion":16,
-"AFClass":{"Version":1,"Modifiers":[],"Abilities":[],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
+"AFClass":{"Version":1,"Modifiers":[],"Abilities":[{"AbilityID":"-Ability-9ff4c26b-f0e8-4cf9-93c3-6ef88e5e3f78","AvailableWhen":[]},{"AbilityID":"-Ability-9cfa25d0-ec89-4535-b4c7-5a21ec3cf1e5","AvailableWhen":[]},{"AbilityID":"-Ability-6d6f7226-938b-4439-a4ac-a961b639a526","AvailableWhen":[]}],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
 {"ID":"health","On":true,"Tag":""},
 {"ID":"tag_high","On":true,"Tag":"ValueTag-012021cc-5174-4716-82f1-d9c208b82ead"},
 {"ID":"danger_me","On":false,"Tag":""},

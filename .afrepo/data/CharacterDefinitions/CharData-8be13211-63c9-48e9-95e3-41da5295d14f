@@ -102,10 +102,10 @@
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Death","ID":"d75c78a8-9fdc-494c-99dd-d36d60d02339","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"9d6a577d-bf17-4e55-82f5-c2927c130918","isActive":false}
 ]},"ToolName":"Death","AuthorName":"","dataVersion":16},
-{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Dialogue/Hunched/Talking_Goblin_Idle"]},"ID":"-13c9ec9b-fb3f-46c8-a040-014e12311c96","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Burning","ID":"ae718be6-c76e-48c8-b1f7-a8748a59f39a","isActive":false},
-{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"f202957c-a219-4a15-b0e2-1926328aa35b","isActive":false}
-]},"ToolName":"Burning","AuthorName":"","dataVersion":16}
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Skills/Guns/attack07","Skills/Guns/attack03_1","Skills/Guns/attack06"]},"ID":"-e9b024c2-e8cb-46c6-8b96-2a6a2457ee87","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Shoot","ID":"ee34192a-782d-4f86-aa3c-05795195f338","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d8345401-9464-4877-804a-cecbb61b669e","isActive":false}
+]},"ToolName":"Shoot","AuthorName":"","dataVersion":16}
 ]},"Scale":100,"Outline":false,"overrideShaderStyle":false,"overridenAlbedoImg":null,"Saturation":0.99,"Brightness":0.7,"outlineOverride":{"$type":"EndlessAdv.AuthDatas.CharacterOutlineThemeData, Assembly-CSharp","ColorOutline":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":1.0},"Width":0.18},"styleOverride":{"$type":"EndlessAdv.AuthDatas.CharacterShaderStyleThemeData, Assembly-CSharp","styleType":0,"opacity":1.0,"shadingRange":1.0,"ShadingRotation":0.0},"ID":"-77dc1bfa-c525-4ddb-9a43-b5b8df684f5c","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"288bb82a-5532-496e-baad-41e9ee54da4a","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"09bbef8a-b843-47da-a79a-4d96878ce8a4","isActive":false}

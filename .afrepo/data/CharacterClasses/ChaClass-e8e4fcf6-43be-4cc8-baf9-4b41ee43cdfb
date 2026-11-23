@@ -14,7 +14,7 @@
 "ToolName":"Agile Swordsman",
 "AuthorName":"",
 "dataVersion":16,
-"AFClass":{"Version":1,"Modifiers":[],"Abilities":[],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
+"AFClass":{"Version":1,"Modifiers":[],"Abilities":[{"AbilityID":"-Ability-3e72f157-267c-43d6-8e22-0f7897945026","AvailableWhen":[]},{"AbilityID":"-Ability-d77edb27-1b84-4fd3-947d-fcd145a6291e","AvailableWhen":[]}],"AIApply":"override","AIInfluence":50,"AI":{"Version":1,"PlayedBy":"engine","Abilities":"all","AbilityIDs":[],"TileWorth":"","Preferences":[],"Priorities":[
 {"ID":"health","On":false,"Tag":""},
 {"ID":"tag_high","On":false,"Tag":""},
 {"ID":"danger_me","On":false,"Tag":""},
@@ -25,5 +25,5 @@
 {"ID":"tag_low","On":false,"Tag":""},
 {"ID":"danger_allies","On":false,"Tag":""},
 {"ID":"targeted_allies","On":false,"Tag":""}
-],"Preset":"custom","From":"guard","Situations":[],"DistanceAuto":true,"DistanceOffset":0,"Aggression":62,"Support":10,"Caution":40,"Distance":1},"Rules":{"Version":1,"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}}
+],"Preset":"custom","From":"guard","Situations":[],"DistanceAuto":true,"DistanceOffset":0,"Aggression":62,"Support":11,"Caution":40,"Distance":2},"Rules":{"Version":1,"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}}
 }

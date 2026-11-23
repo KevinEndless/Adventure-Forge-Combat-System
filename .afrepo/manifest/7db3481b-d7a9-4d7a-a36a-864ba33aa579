@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_Characters_French_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/Characters/French/",
-"LastChangedTime":"2026-11-23T18:42:35.9279999Z",
+"LastChangedTime":"2026-11-23T20:12:17.5199999Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -14,6 +14,7 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"59173ee8-36c0-448b-8208-d0c098b3960a","FileName":"FrenchPistoleer_Default.fbx","FileSize":4483820,"Type":7,"DateTime":"2026-11-23T18:40:40.9719998Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"1bab5aa3-0958-4657-bca3-0b7ee3075ce2","FileName":"French_Swordsman_Default.fbx","FileSize":4848492,"Type":7,"DateTime":"2026-11-23T18:42:35.8889999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f820715a-29b5-4245-aef2-270784573e79","FileName":"Elemental_Magician_Default.fbx","FileSize":4679948,"Type":7,"DateTime":"2026-11-23T18:42:35.8949999Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"195de9d5-2cb3-4a40-994d-52c2f63054ae","FileName":"French_Assassin_Default.fbx","FileSize":4420924,"Type":7,"DateTime":"2026-11-23T18:42:35.9030001Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"195de9d5-2cb3-4a40-994d-52c2f63054ae","FileName":"French_Assassin_Default.fbx","FileSize":4420924,"Type":7,"DateTime":"2026-11-23T18:42:35.9030001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c2428d65-fbf5-4418-a566-f2b3ac3dcb56","FileName":"FRENCH_-_Heiress.fbx","FileSize":9305228,"Type":7,"DateTime":"2026-11-23T20:11:52.3819999Z"}
 ]}
 }

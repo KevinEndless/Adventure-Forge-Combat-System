@@ -30,7 +30,7 @@
 {"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-0ebbc90f-48a5-43bd-a5ad-2f71cf02472a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"a3d089cd-1475-4b80-9229-48fd9df530c9","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"80cd3590-958a-47e2-9967-8cf9b25860ae","isActive":false}
-]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"7ac1ef2b-44f7-4bec-966b-1a4a1d286114","isActive":false},
+]},"ToolName":"","AuthorName":"","dataVersion":16,"AFFavour":3},"ID":"7ac1ef2b-44f7-4bec-966b-1a4a1d286114","isActive":false},
 {"$type":"EAObjAutoTargettingAIComponentData, Assembly-CSharp","AutoTargetLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"fdf213bf-616c-478b-98df-20a49693ae01","isActive":false},
 {"$type":"EAObjLineOfSightUserComponentData, Assembly-CSharp","useLineOfSight":false,"ID":"5395dcd7-34f4-46da-8e2d-f83c2805566e","isActive":false},
 {"$type":"EAAbilityUsePathFindingComponentData, Assembly-CSharp","usePathFinding":false,"ID":"174440d0-192a-48a5-8d4a-867f3d38cf7d","isActive":false},

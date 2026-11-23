@@ -6,12 +6,12 @@
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"68f920a7-c4eb-4529-b3fa-810d3fb342c5","isActive":false},
 {"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"b127b0f8-2b1f-4a52-b9b1-bb84975084a2","isActive":false},
 {"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"e3cd8010-ddc4-4244-bb93-89a2cd42bf51","isActive":false},
-{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"1","ID":"259f9016-bcdd-4eed-8abd-9d84d60d0200","isActive":true}
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":"0","ID":"259f9016-bcdd-4eed-8abd-9d84d60d0200","isActive":true}
 ]},
 "ToolName":"Cooldown",
 "AuthorName":"",
 "dataVersion":16,
 "AFCombatStatus":{"Version":1,"On":false,"Starts":[],"Ends":"zero","Countdown":true,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block","Dim":true},
-"AFValueLimits":{"Version":1,"Max":"","Min":"1","Start":"min"},
+"AFValueLimits":{"Version":1,"Max":"1","Min":"0"},
 "AFCountsDown":true
 }

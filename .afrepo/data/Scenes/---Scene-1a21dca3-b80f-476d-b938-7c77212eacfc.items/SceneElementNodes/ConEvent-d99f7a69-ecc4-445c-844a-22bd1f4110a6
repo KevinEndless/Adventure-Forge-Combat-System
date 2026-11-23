@@ -146,7 +146,7 @@
 "ParentSceneID":"---Scene-1a21dca3-b80f-476d-b938-7c77212eacfc",
 "ParentGroupID":"---Scene-1a21dca3-b80f-476d-b938-7c77212eacfc",
 "NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-1a21dca3-b80f-476d-b938-7c77212eacfc"]},
-"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":90.0,"y":100.0}]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":60.0,"y":110.0}]},
 "TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
 "ID":"ConEvent-d99f7a69-ecc4-445c-844a-22bd1f4110a6",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
