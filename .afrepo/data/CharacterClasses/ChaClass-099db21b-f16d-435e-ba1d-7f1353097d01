@@ -25,5 +25,5 @@
 {"ID":"tag_low","On":false,"Tag":""},
 {"ID":"danger_allies","On":false,"Tag":""},
 {"ID":"targeted_allies","On":false,"Tag":""}
-],"Preset":"custom","From":"guard","Situations":[],"DistanceAuto":true,"DistanceOffset":0,"Aggression":62,"Support":24,"Caution":60,"Distance":1},"Rules":{"Version":1,"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}}
+],"Preset":"custom","From":"guard","Situations":[],"WalksOnlyToCast":false,"Aggression":62,"Support":24,"Caution":59,"Planning":1},"Rules":{"Version":1,"Triggers":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[]},"LogicBlocks":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib","$values":[]},"Folders":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.FolderData, Assembly-CSharp]], mscorlib","$values":[]}}}
 }

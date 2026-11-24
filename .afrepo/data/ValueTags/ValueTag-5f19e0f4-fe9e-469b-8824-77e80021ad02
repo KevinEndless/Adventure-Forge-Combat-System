@@ -11,5 +11,5 @@
 "ToolName":"Burn",
 "AuthorName":"",
 "dataVersion":16,
-"AFCombatStatus":{"Version":1,"On":true,"Starts":[],"Ends":"zero","Countdown":false,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block","Looks":[{"Kind":"vfx","For":"all","Vfx":"VFX-6e374ccf-65a7-460a-83f0-3a05124b0b3e","Anchor":""},{"Kind":"anim","For":"character","Action":"Burning","Mode":"all"},{"Kind":"tint","For":"character","Color":"#a72020","Amount":100}],"Reactions":[]}
+"AFCombatStatus":{"Version":1,"On":true,"Starts":[],"Ends":"zero","Countdown":false,"SkipsTurns":false,"Untargetable":false,"CountsOut":false,"Map":"block","Looks":[{"Kind":"vfx","For":"all","Vfx":"VFX-6e374ccf-65a7-460a-83f0-3a05124b0b3e","Anchor":""},{"Kind":"anim","For":"character","Action":"Burning","Mode":"all"},{"Kind":"tint","For":"character","Color":"#a72020","Amount":25}],"Reactions":[]}
 }
