@@ -22,5 +22,7 @@
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"364e4b11-a9c4-4cc6-8fef-8ba436436645","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"2deffcc7-d25d-4c95-8b35-a6b552530ca4","isActive":false}
 ]},"ToolName":"","AuthorName":"","dataVersion":16}
-]}]}
+]}]},
+"AFFloatStatus":{"Gained":"","Lost":"","Words":"Poison"},
+"AFFloatNumbers":{"Down":"","Up":"FloatStyle-497ae1d9-4e73-4b96-a16c-067813b88a02","On":["character"],"BattleOnly":false}
 }

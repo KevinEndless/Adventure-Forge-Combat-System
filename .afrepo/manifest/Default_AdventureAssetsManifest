@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/",
-"LastChangedTime":"2026-11-20T18:06:23.2509999Z",
+"LastChangedTime":"2026-11-25T02:55:02.8440001Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -19,6 +19,7 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2b78cca7-7d05-4f3c-922a-dce3457ddc40","FileName":"SM_Wep_Axe_01.fbx","FileSize":28396,"Type":7,"DateTime":"2026-11-10T23:11:01.697Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"996b2df1-45bb-42c3-9e27-3b38e36a569c","FileName":"SK_Character_Android_Female_01.fbx","FileSize":753148,"Type":7,"DateTime":"2026-11-12T18:01:01.598Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"57f647ec-296c-458d-af1b-0de69419d621","FileName":"statuseffects_Marked_default_wip.png","FileSize":1852,"Type":4,"DateTime":"2026-11-16T23:01:20.246Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"45a7a29f-59ac-43b3-8a14-40bd2d15d725","FileName":"dungeon_furniture_dobledoorclosed_01.png","FileSize":134300,"Type":4,"DateTime":"2026-11-20T18:06:13.0840001Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"45a7a29f-59ac-43b3-8a14-40bd2d15d725","FileName":"dungeon_furniture_dobledoorclosed_01.png","FileSize":134300,"Type":4,"DateTime":"2026-11-20T18:06:13.0840001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"adb382c2-1da2-4dcc-aa28-cfb5b27ec9f5","FileName":"stairs_woodPlank_front.png","FileSize":73594,"Type":4,"DateTime":"2026-11-25T02:55:02.7679998Z"}
 ]}
 }

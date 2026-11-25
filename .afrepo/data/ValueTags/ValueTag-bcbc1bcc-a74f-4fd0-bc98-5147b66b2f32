@@ -19,5 +19,6 @@
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"8230ea54-4874-45a2-a639-df96ffe3d87c","isActive":false}
 ]},"ToolName":"","AuthorName":"","dataVersion":16}
 ]}]},
-"AFValueLimits":{"Version":1,"Max":"1"}
+"AFValueLimits":{"Version":1,"Max":"1"},
+"AFFloatStatus":{"Gained":"FloatStyle-3111e53e-a1e8-4ba4-9df3-88c5e4686a6e","Lost":"FloatStyle-9467e55f-b90b-4d06-9a72-2263cbfda966","Words":""}
 }
