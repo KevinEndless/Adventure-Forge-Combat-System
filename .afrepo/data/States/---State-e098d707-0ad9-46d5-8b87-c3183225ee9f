@@ -1,0 +1,11 @@
+{
+"$type":"EndlessAdv.AuthDatas.StateData, Assembly-CSharp",
+"ID":"---State-e098d707-0ad9-46d5-8b87-c3183225ee9f",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Open","ID":"8368cb4f-7401-4110-89c9-cbf00ae2bcdb","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"9936a7db-eb45-4f10-ae2f-5a3228f3bfda","isActive":false}
+]},
+"ToolName":"Open",
+"AuthorName":"",
+"dataVersion":16
+}

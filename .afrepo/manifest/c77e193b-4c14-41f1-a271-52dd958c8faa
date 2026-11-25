@@ -1,0 +1,25 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"c77e193b-4c14-41f1-a271-52dd958c8faa",
+"Name":"PackedFiles_Adventure_Assets_Tilesets_Fort_Walls_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Tilesets/Fort_Walls/",
+"LastChangedTime":"2026-11-25T00:50:33.7309999Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"317cb37a-2012-4ceb-a93c-bfff01b1fb39","FileName":"Doorway_A_Close.png","FileSize":674309,"Type":4,"DateTime":"2026-11-25T00:50:33.315Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"3be82936-1235-4567-835b-ebf5347c3267","FileName":"Doorway_A_Open.png","FileSize":618266,"Type":4,"DateTime":"2026-11-25T00:50:33.319Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"960c0554-37a2-49d0-8d7e-c05165ec9f72","FileName":"Wall_A.png","FileSize":411873,"Type":4,"DateTime":"2026-11-25T00:50:33.325Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"60cff238-08a8-4486-9017-5dbaff8c1804","FileName":"Wall_A_2X.png","FileSize":204808,"Type":4,"DateTime":"2026-11-25T00:50:33.331Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"9bba8623-c5b1-4953-95a1-8b03db77267f","FileName":"Wall_A_Corner_E-W.png","FileSize":445783,"Type":4,"DateTime":"2026-11-25T00:50:33.3359999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"17768b0a-2253-4a35-9eef-0eece4d5733b","FileName":"Wall_A_Corner_N.png","FileSize":494876,"Type":4,"DateTime":"2026-11-25T00:50:33.342Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"bf78b97f-9772-4d88-a000-aaeaeb41a2c3","FileName":"Wall_A_Corner_S.png","FileSize":570008,"Type":4,"DateTime":"2026-11-25T00:50:33.348Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"29113062-9903-4552-8422-944579dc429b","FileName":"Wall_A_Trim.png","FileSize":193599,"Type":4,"DateTime":"2026-11-25T00:50:33.354Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2f923364-903d-4316-bece-46382cfbb63c","FileName":"Wall_A_Trim_Corner_S.png","FileSize":245221,"Type":4,"DateTime":"2026-11-25T00:50:33.3589999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"aee491ba-bee5-47df-b63c-4eb4fb6f85fd","FileName":"Wall_A_T_Back.png","FileSize":585693,"Type":4,"DateTime":"2026-11-25T00:50:33.364Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"4673e887-b5f2-4091-9346-bba8970da6fe","FileName":"Wall_A_T_Front.png","FileSize":553864,"Type":4,"DateTime":"2026-11-25T00:50:33.3689999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f54d66a8-649b-4373-80e4-346d6be8d49b","FileName":"Wall_A_X.png","FileSize":553231,"Type":4,"DateTime":"2026-11-25T00:50:33.3729999Z"}
+]}
+}
