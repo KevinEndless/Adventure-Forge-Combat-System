@@ -8,7 +8,7 @@
 "StartingTags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},
 "ID":"-IsoProp-fd1b5798-637c-4cd1-a8b0-cc21c80bf7fa",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"New Prop","ID":"d7499b9e-16c6-4834-9e77-268ac83da798","isActive":false},
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Stairs","ID":"d7499b9e-16c6-4834-9e77-268ac83da798","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1c76f25f-6e2f-45df-b562-cad55116e43b","isActive":false},
 {"$type":"EAIsometricPropsComponentData, Assembly-CSharp","States":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.IsometricPropStateData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EndlessAdv.AuthDatas.IsometricPropStateData, Assembly-CSharp","ID":"00000000----State-00000000-0000-0000-0000-000000000000","Decals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[
@@ -24,7 +24,7 @@
 ]},"ID":"c7230f20-594c-4985-9e15-25e17025f97a","isActive":false},
 {"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"acbe8d0f-cdc4-45f5-a3a8-a8f1f13513d7","isActive":false}
 ]},
-"ToolName":"New Prop",
+"ToolName":"Stairs",
 "AuthorName":"",
 "dataVersion":16
 }
