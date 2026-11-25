@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_Tilesets_Fort_Walls_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/Tilesets/Fort_Walls/",
-"LastChangedTime":"2026-11-25T00:50:33.7309999Z",
+"LastChangedTime":"2026-11-25T06:37:08.6089999Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -20,6 +20,11 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2f923364-903d-4316-bece-46382cfbb63c","FileName":"Wall_A_Trim_Corner_S.png","FileSize":245221,"Type":4,"DateTime":"2026-11-25T00:50:33.3589999Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"aee491ba-bee5-47df-b63c-4eb4fb6f85fd","FileName":"Wall_A_T_Back.png","FileSize":585693,"Type":4,"DateTime":"2026-11-25T00:50:33.364Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"4673e887-b5f2-4091-9346-bba8970da6fe","FileName":"Wall_A_T_Front.png","FileSize":553864,"Type":4,"DateTime":"2026-11-25T00:50:33.3689999Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f54d66a8-649b-4373-80e4-346d6be8d49b","FileName":"Wall_A_X.png","FileSize":553231,"Type":4,"DateTime":"2026-11-25T00:50:33.3729999Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f54d66a8-649b-4373-80e4-346d6be8d49b","FileName":"Wall_A_X.png","FileSize":553231,"Type":4,"DateTime":"2026-11-25T00:50:33.3729999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6f6ac9be-9a9e-4769-aedb-361f23f0fc60","FileName":"Wall_A_normal.png","FileSize":230682,"Type":4,"DateTime":"2026-11-25T06:36:07.8900001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"57344cfc-86a0-4756-bb5c-14ba2103848b","FileName":"Wall_A_Corner_N_normal.png","FileSize":238355,"Type":4,"DateTime":"2026-11-25T06:36:07.8929998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"3acbf8c5-bc0d-45db-8d73-014e0ce725db","FileName":"Wall_A_Corner_E-W_normal.png","FileSize":245453,"Type":4,"DateTime":"2026-11-25T06:36:07.898Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a193bb0f-63fe-4ab2-b37f-6d9f443c89d1","FileName":"Doorway_normal.png","FileSize":317325,"Type":4,"DateTime":"2026-11-25T06:37:08.526Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"9088ccd6-23b2-4f95-81e7-443062fc8a22","FileName":"Wall_A_Corner_S_normal.png","FileSize":357948,"Type":4,"DateTime":"2026-11-25T06:37:08.5299999Z"}
 ]}
 }

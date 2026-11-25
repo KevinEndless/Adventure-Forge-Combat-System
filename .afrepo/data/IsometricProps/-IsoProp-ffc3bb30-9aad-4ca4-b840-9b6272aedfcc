@@ -16,7 +16,7 @@
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Fort Walls · Wall_A","ID":"9205691e-621b-42ea-b542-249953d98116","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"14be5d42-872c-4f22-8306-61e0976f5e56","isActive":false},
 {"$type":"EAObjColliderComponentData, Assembly-CSharp","coverType":0,"ID":"559aa533-0cac-4929-b4cf-df97b014a9c2","isActive":false}
-]},"ToolName":"Fort Walls · Wall_A","AuthorName":"","dataVersion":16}
+]},"ToolName":"Fort Walls · Wall_A","AuthorName":"","dataVersion":16,"AFNormalMapID":"6f6ac9be-9a9e-4769-aedb-361f23f0fc60"}
 ]},"Volume":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricPosition, Assembly-CSharp]], mscorlib","$values":[]},"LineOfSightVolumes":{"$type":"System.Collections.Generic.List`1[[LineOfSightVolumeData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"LineOfSightVolumeData, Assembly-CSharp","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Blocks sight 0 0 0","ID":"0956f092-7f00-480e-b0d5-dec8169a63bf","isActive":false},

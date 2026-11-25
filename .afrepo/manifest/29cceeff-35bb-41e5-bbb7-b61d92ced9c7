@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_Abilities_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/Abilities/",
-"LastChangedTime":"2026-11-24T07:24:18.8139998Z",
+"LastChangedTime":"2026-11-25T05:07:44.795Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -63,6 +63,9 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6cfff4cf-4ede-4fc8-acd2-aed94f7ebf3c","FileName":"ability_PoisonBolt_poison-status_pressed.png","FileSize":15450,"Type":4,"DateTime":"2026-11-23T22:48:56.924Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"13244a5b-ecc7-45e6-9ba0-f47acb595b96","FileName":"ability_BlowfishShot_physical_default.png","FileSize":15691,"Type":4,"DateTime":"2026-11-24T07:23:58.299Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a4e90feb-5cdc-4fa5-8f9e-71a8e01eb73e","FileName":"ability_BlowfishShot_physical_hover.png","FileSize":15555,"Type":4,"DateTime":"2026-11-24T07:23:58.3029999Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"703562fc-0c3b-4d59-a825-1db26e0c2ef6","FileName":"ability_BlowfishShot_physical_pressed.png","FileSize":14731,"Type":4,"DateTime":"2026-11-24T07:23:58.3099999Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"703562fc-0c3b-4d59-a825-1db26e0c2ef6","FileName":"ability_BlowfishShot_physical_pressed.png","FileSize":14731,"Type":4,"DateTime":"2026-11-24T07:23:58.3099999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7bb35d8a-85fb-453d-a4ff-fdb13fd04437","FileName":"ability_Curse_status_default.png","FileSize":16834,"Type":4,"DateTime":"2026-11-25T05:07:22.1300001Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2aa2cbe0-8bad-4ef9-ab71-c7dac9482a32","FileName":"ability_Curse_status_hover.png","FileSize":16473,"Type":4,"DateTime":"2026-11-25T05:07:22.134Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"38281062-0b97-4141-8c75-9fda91a2eb3b","FileName":"ability_Curse_status_pressed.png","FileSize":15943,"Type":4,"DateTime":"2026-11-25T05:07:22.1389999Z"}
 ]}
 }

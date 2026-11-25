@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/",
-"LastChangedTime":"2026-11-25T02:55:02.8440001Z",
+"LastChangedTime":"2026-11-25T06:40:02.282Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -20,6 +20,8 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"996b2df1-45bb-42c3-9e27-3b38e36a569c","FileName":"SK_Character_Android_Female_01.fbx","FileSize":753148,"Type":7,"DateTime":"2026-11-12T18:01:01.598Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"57f647ec-296c-458d-af1b-0de69419d621","FileName":"statuseffects_Marked_default_wip.png","FileSize":1852,"Type":4,"DateTime":"2026-11-16T23:01:20.246Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"45a7a29f-59ac-43b3-8a14-40bd2d15d725","FileName":"dungeon_furniture_dobledoorclosed_01.png","FileSize":134300,"Type":4,"DateTime":"2026-11-20T18:06:13.0840001Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"adb382c2-1da2-4dcc-aa28-cfb5b27ec9f5","FileName":"stairs_woodPlank_front.png","FileSize":73594,"Type":4,"DateTime":"2026-11-25T02:55:02.7679998Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"adb382c2-1da2-4dcc-aa28-cfb5b27ec9f5","FileName":"stairs_woodPlank_front.png","FileSize":73594,"Type":4,"DateTime":"2026-11-25T02:55:02.7679998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"53b6fac5-30d5-43fe-a77d-38c982ecefdd","FileName":"Stairs_Mid_normal.png","FileSize":140095,"Type":4,"DateTime":"2026-11-25T06:40:02.196Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"681e8121-6842-468b-9ea9-01db77b1e54f","FileName":"Stairs_Mid.png","FileSize":170309,"Type":4,"DateTime":"2026-11-25T06:40:02.2Z"}
 ]}
 }

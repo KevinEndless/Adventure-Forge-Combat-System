@@ -14,7 +14,7 @@
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Captain Jack","ID":"28960e0d-1b21-48dc-a098-51521186f6f8","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"7f7780c1-cf9e-40fd-8ce1-47e10f612930","isActive":false},
-{"$type":"EAObjAbilitiesOwnerComponentData, Assembly-CSharp","abilitiesOwnIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["-Ability-dae1b9bf-3430-4c1b-b939-5f1c02c80e76"]},"ID":"5f035cbb-f1a8-4f7d-8e69-e21738e54d26","isActive":false},
+{"$type":"EAObjAbilitiesOwnerComponentData, Assembly-CSharp","abilitiesOwnIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["-Ability-dae1b9bf-3430-4c1b-b939-5f1c02c80e76","-Ability-9ae38fd8-fa8e-4b0c-834c-0d828a1d0cad"]},"ID":"5f035cbb-f1a8-4f7d-8e69-e21738e54d26","isActive":false},
 {"$type":"EAObjFactionConfigsComponentData, Assembly-CSharp","factionType":0,"ID":"974b52e0-256a-4bae-b5fb-5d6210400fda","isActive":false},
 {"$type":"EAObjShouldBlockLOSComponentData, Assembly-CSharp","blockLOS":false,"ID":"9dab7668-8d5b-4de0-bbc6-778b1b0adae6","isActive":false},
 {"$type":"EACharacterStatesComponentData, Assembly-CSharp","States":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.CharacterStateDefinitionData, Assembly-CSharp]], mscorlib","$values":[

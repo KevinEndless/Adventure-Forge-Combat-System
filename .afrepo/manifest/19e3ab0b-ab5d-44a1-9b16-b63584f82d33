@@ -4,7 +4,7 @@
 "Name":"PackedFiles_Adventure_Assets_VFX_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/VFX/",
-"LastChangedTime":"2026-11-23T23:03:20.2079999Z",
+"LastChangedTime":"2026-11-25T05:47:46.588Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
@@ -37,6 +37,10 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"fd9d9d8c-6f4d-4d2d-af4a-d68902271c65","FileName":"Poison_Bolt_Impact.afvfx","FileSize":208623,"Type":0,"DateTime":"2026-11-23T23:03:02.522Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"73541414-785f-44bc-b51f-b481e4a744bd","FileName":"Poison_Bolt_InFlight.afvfx","FileSize":131734,"Type":0,"DateTime":"2026-11-23T23:03:02.529Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f00f2a83-a641-44fd-9806-d013a96e9fbe","FileName":"Poison_Bolt_Cast.afvfx","FileSize":181694,"Type":0,"DateTime":"2026-11-23T23:03:02.535Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"31b3a87e-efc3-46fa-908e-c14ee59566db","FileName":"Poison_Bolt_Charge.afvfx","FileSize":104117,"Type":0,"DateTime":"2026-11-23T23:03:02.5409998Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"31b3a87e-efc3-46fa-908e-c14ee59566db","FileName":"Poison_Bolt_Charge.afvfx","FileSize":104117,"Type":0,"DateTime":"2026-11-23T23:03:02.5409998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"3d114451-1a6d-409c-b53c-5f4d6e530743","FileName":"Curse.afvfx","FileSize":244388,"Type":0,"DateTime":"2026-11-25T05:42:23.0989999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c8993250-0e44-4a8d-9d66-685b708f25a6","FileName":"Curse_InFlight.afvfx","FileSize":237875,"Type":0,"DateTime":"2026-11-25T05:47:46.5169999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"3ed2e647-d365-49ec-8be3-bee8a6b61266","FileName":"Curse_Cast.afvfx","FileSize":243749,"Type":0,"DateTime":"2026-11-25T05:47:46.5209999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a85a7edb-32d3-4789-bc0f-4c0b17db4cb2","FileName":"Curse_Charge.afvfx","FileSize":166065,"Type":0,"DateTime":"2026-11-25T05:47:46.526Z"}
 ]}
 }
